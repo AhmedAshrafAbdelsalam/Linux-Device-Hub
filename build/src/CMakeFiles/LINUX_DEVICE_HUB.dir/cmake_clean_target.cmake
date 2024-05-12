@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libLINUX_DEVICE_HUB.a"
+)

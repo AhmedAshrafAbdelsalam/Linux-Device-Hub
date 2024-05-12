@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ CMakeFiles/EXAMPLE.dir/main.cpp.o -o EXAMPLE  ../src/libLINUX_DEVICE_HUB.a -lm -lbluetooth 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLINUX_DEVICE_HUB.a CMakeFiles/LINUX_DEVICE_HUB.dir/BluetoothBuilder/BluetoothBuilder.cpp.o CMakeFiles/LINUX_DEVICE_HUB.dir/Bluetooth/Bluetooth.cpp.o CMakeFiles/LINUX_DEVICE_HUB.dir/Observable/Observable.cpp.o CMakeFiles/LINUX_DEVICE_HUB.dir/JoystickController/JoystickController.cpp.o CMakeFiles/LINUX_DEVICE_HUB.dir/PowerLedController/PowerLedController.cpp.o CMakeFiles/LINUX_DEVICE_HUB.dir/Device/Device.cpp.o
+/usr/bin/ranlib libLINUX_DEVICE_HUB.a
